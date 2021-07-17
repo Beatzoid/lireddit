@@ -13,7 +13,7 @@
     "author": "Beatzoid",
     "license": "MIT",
     "dependencies": {
-        "apollo-server-express": "^2.25.2",
+        "apollo-server-express": "^3.0.1",
         "argon2": "^0.28.2",
         "connect-redis": "^6.0.0",
         "cors": "^2.8.5",
