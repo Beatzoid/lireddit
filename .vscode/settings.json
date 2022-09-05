@@ -10,5 +10,5 @@
         "**/.yarn": true,
         "**/yarn.lock": true
     },
-    "cSpell.words": ["asynciterable", "Lireddit", "Typeorm"]
+    "cSpell.words": ["asynciterable", "Lireddit", "mikro", "Typeorm"]
 }
